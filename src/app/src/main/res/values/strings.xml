@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name" translatable="false">FakeDet</string>
+    <string name="auth_sign_in_welcome">Welcome back!</string>
+    <string name="auth_sign_in_welcome_placeholder">Login to your account</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_sign_in_forgot">Forgot password?</string>
+    <string name="auth_sign_in">Sign in</string>
+    <string name="auth_sign_in_account">Don’t have an account?</string>
+    <string name="auth_sign_in_sign_up">Sign up</string>
+    <string name="auth_sign_up_welcome">Welcome!</string>
+    <string name="auth_sign_up_welcome_placeholder">Create your account</string>
+    <string name="auth_name">Name</string>
+    <string name="auth_login_placeholder">Enter your login</string>
+    <string name="auth_name_placeholder">Enter your name</string>
+    <string name="auth_password_placeholder">Enter your password</string>
+    <string name="auth_sign_up">Sign Up</string>
+    <string name="auth_sign_up_account">Already have an account?</string>
+    <string name="auth_sign_up_sign_in">Sign In</string>
+    <string name="auth_login_incorrect">Invalid login</string>
+    <string name="auth_password_incorrect">Invalid password</string>
+    <string name="auth_name_incorrect">Invalid name</string>
+    <string name="main_history">HISTORY</string>
+    <string name="main_welcome">Welcome back</string>
+    <string name="main_settings_language">Language</string>
+    <string name="main_settings_sign_out">Sign out</string>
+    <string name="create_create_request">Create new request</string>
+    <string name="create_text_hint_placeholder">Enter text</string>
+    <string name="error_happend">Something went error!</string>
+    <string name="main_files">Files</string>
+    <string name="date_today">Today</string>
+    <string name="date_yesterday">Yesterday</string>
+    <string name="date_monday">Mon</string>
+    <string name="date_tuesday">Tue</string>
+    <string name="date_wednesday">Wed</string>
+    <string name="date_thursday">Thur</string>
+    <string name="date_friday">Fri</string>
+    <string name="date_saturday">Sat</string>
+    <string name="date_sunday">Sun</string>
+    <string name="post_result">RESULT</string>
+    <string name="post_topic">"Topic: "</string>
+    <string name="post_mood">"Mood: "</string>
+    <string name="post_confidence_level">Trust</string>
+    <string name="post_links">"More about: "</string>
+    <string name="post_post_title">"Post "</string>
+    <string name="error_incorrect_file_type">Incorrect file type!</string>
+    <string name="create_close_dialog">Close</string>
+    <string name="create_remove_dialog">Remove</string>
+    <string name="post_ai_generated">AI Generated</string>
+    <string name="post_trusted">The content is verified and currently appears trustworthy, additional verification recommended</string>
+    <string name="post_untrusted">This content is dubious, we advise caution</string>
+    <string name="link_original">"Original: "</string>
+    <string name="link_content">Content:</string>
+    <string name="link_compare">Compare:</string>
+    <string name="link_keywords">Keywords:</string>
+    <string name="link_keyword_name">Name</string>
+    <string name="link_keyword_original">Request</string>
+    <string name="link_keyword_compare">Article</string>
+    <string name="link_keyword_intersection">General</string>
+    <string name="link_view">View</string>
+    <string name="link_semantic_sim">Similarity</string>
+    <string name="link_relevant_sim">Relevance</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">Prev</string>
+    <string name="post_empty">No posts</string>
+    <string name="news_empty">No news</string>
+    <string name="site_lentaru" translatable="false">LENTA.RU</string>
+    <string name="site_iz" translatable="false">ИЗВЕСТИЯ</string>
+    <string name="site_interfax" translatable="false">ИНТЕРФАКС</string>
+    <string name="site_cnn" translatable="false">CNN</string>
+    <string name="site_bbc" translatable="false">BBC</string>
+    <string name="site_ria" translatable="false">РИА НОВОСТИ</string>
+    <string name="site_tass" translatable="false">ТАСС</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="link_tg">Copy the command below to link your account with tg-bot:</string>
+    <string name="bot_url" translatable="false">https://t.me/fake_detector_news_bot</string>
+    <string name="bot_name" translatable="false">Fake Detector</string>
+    <string name="post_transcribe">Transcript</string>
+    <string name="ai_generated_text">AI Generated</string>
+    <string name="humand_made_text">Human Made</string>
+    <string name="auth_restore">Restore</string>
+    <string name="auth_welcome_restore">Restore your password</string>
+</resources>
